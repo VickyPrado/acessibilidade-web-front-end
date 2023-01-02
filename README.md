@@ -9,6 +9,7 @@ IDE utilizada:
 
 Programa usado para teste de acessibilidade:
 > NVDA 2022.3.3
+Software que pessoas cegas e com baixa visão utilizam pois ele lê o conteudo exibido na tela
 
 Navegador utilizado como teste:
 > Firefox 108.0.1 (64-bit)
