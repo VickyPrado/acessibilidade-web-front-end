@@ -1,5 +1,5 @@
 # Acessibilidade-web-front-end
-Projeto referente ao curso de Web Design para trabalhar a acessibilidade do site para pessoas cegas e com baixa visão
+Projeto referente ao curso de Web Design para trabalhar a acessibilidade do site para pessoas cegas e com baixa visão.
 
 Site criado utilizando as linguagens:
 > HTML, CSS e JAVASCRIPT
